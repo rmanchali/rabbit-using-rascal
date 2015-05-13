@@ -1,0 +1,26 @@
+{
+  "name": "rabbit-using-rascal",
+  "version": "1.0.0",
+  "description": "simple messages sent and recieved",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rmanchali/*******"
+  },
+  "bugs": {
+    "url": "https://github.com/rmanchali/********/issues"
+  },
+  "keywords": [
+    "mongo",
+    "json"
+  ],
+  "preferGlobal": true,
+  "author": "Ranjan Manchali <ranjanmanchali@hotmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "rascal": "*"
+  }
+}
